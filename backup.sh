@@ -19,3 +19,4 @@ expect \"*?assword:*\"
 send -- \"$PASS\r\"
 expect \"*?seepdup*\"
 expect eof" 2>/dev/null
+pene
